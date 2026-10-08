@@ -5,7 +5,7 @@ A calm, glowing night-sky game. Float a paper lantern through the dark, gather f
 Built with plain HTML, CSS and JavaScript on a single canvas. No libraries, no build step.
 
 live link : https://abhi-y-diord.github.io/Lantern-Drift/
-![Gameplay Screenshot](assets/gameplay.png)
+[![Gameplay](assets/gameplay.png)](assets/gameplay.png)
 
 ## How to play
 
