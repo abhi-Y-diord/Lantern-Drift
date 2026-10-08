@@ -4,7 +4,7 @@ A calm, glowing night-sky game. Float a paper lantern through the dark, gather f
 
 Built with plain HTML, CSS and JavaScript on a single canvas. No libraries, no build step.
 
-live link : https://abhi-y-diord.github.io/Lantern-Drift/
+[▶ Play Lantern Drift](https://abhi-y-diord.github.io/Lantern-Drift/)
 
 ![Gameplay Screenshot](gameplay.png)
 
@@ -65,4 +65,4 @@ README.md    this file
 - Layered parallax sky, hills, clouds and a scrolling ground, all drawn in code
 - Responsive layout for phones and desktops, with safe-area support
 - Respects `prefers-reduced-motion` for the menu fade
-[▶ Play Lantern Drift](https://abhi-y-diord.github.io/Lantern-Drift/)
+
