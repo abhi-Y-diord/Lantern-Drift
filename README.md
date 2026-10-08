@@ -6,7 +6,7 @@ Built with plain HTML, CSS and JavaScript on a single canvas. No libraries, no b
 
 live link : https://abhi-y-diord.github.io/Lantern-Drift/
 
-![Gameplay Screenshot](assets/gameplay.png)
+![Gameplay Screenshot](gameplay.png)
 
 ## How to play
 
