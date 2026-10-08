@@ -65,3 +65,4 @@ README.md    this file
 - Layered parallax sky, hills, clouds and a scrolling ground, all drawn in code
 - Responsive layout for phones and desktops, with safe-area support
 - Respects `prefers-reduced-motion` for the menu fade
+[▶ Play Lantern Drift](https://abhi-y-diord.github.io/Lantern-Drift/)
