@@ -5,8 +5,7 @@ A calm, glowing night-sky game. Float a paper lantern through the dark, gather f
 Built with plain HTML, CSS and JavaScript on a single canvas. No libraries, no build step.
 
 live link : https://abhi-y-diord.github.io/Lantern-Drift/
-[![Gameplay](assets/gameplay.png)](assets/gameplay.png)
-
+![Gameplay](../gameplay.png)
 ## How to play
 
 Hold to rise, release to sink. Collect fireflies to make your glow bigger and your score higher. The run ends if you touch the ground, get caught by a frog's tongue, or get hit by the bird.
